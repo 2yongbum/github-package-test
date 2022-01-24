@@ -15,5 +15,8 @@
     "package"
   ],
   "author": "Yongbum Lee",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@2yongbum:registry": "https://npm.pkg.github.com"
+  }
 }
